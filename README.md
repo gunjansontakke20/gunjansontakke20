@@ -1,4 +1,4 @@
-![logo](https://github.com/gunjansontakke20/gunjansontakke20/blob/main/ComputerProgramming_club.png)
+
 
 <h1 align="center">Hi 👋, I'm Gunjan Sontakke</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
